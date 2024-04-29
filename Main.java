@@ -4,7 +4,7 @@ class Main{
         int second = 20;
 
         int sum = first + second;
-        
-        System.out.println("Numbers " + first + "+" + second);
+        //edited
+        System.out.println("Numbers " + first + "+" + second+first);
     }
 }
